@@ -27,9 +27,11 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=BH World&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
+         <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=pingpingeee&show_icons=true&theme=radical&hide_border=true&border_radius=10">
+  <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=pingpingeee&theme=radical&hide_border=true&border_radius=10">
+<!--     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=BH World&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BH World&layout=compact&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
-           />
+           /> -->
    
     </div> 
     </div>

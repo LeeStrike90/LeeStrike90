@@ -27,9 +27,11 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 GitHub Stats </h2> <br> 
          <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=LeeStrike90&show_icons=true&theme=radical&hide_border=true&border_radius=10">
   <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeeStrike90&theme=radical&hide_border=true&border_radius=10">
     </div> 
     <div align = "center">
+      
          <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeStrike90&layout=compact">
 

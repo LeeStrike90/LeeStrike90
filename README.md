@@ -33,5 +33,3 @@
     <div align = "center">
          <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeStrike90&layout=compact">
 
-    </div>
-    

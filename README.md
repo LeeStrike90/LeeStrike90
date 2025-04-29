@@ -29,6 +29,8 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=BH World&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BH World&layout=compact&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
+           />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+    </div> 
     </div>
     

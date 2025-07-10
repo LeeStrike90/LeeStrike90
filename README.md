@@ -44,7 +44,7 @@
 
 | 프로젝트명 | 설명 | 기술 스택 |
 |------------|------|-----------|
-| **Ink Tree** | 실시간 도서 대여, | Unity, C#, ScriptableObject |
+| **Ink Tree** | 실시간 도서 대여 | Unity, C#, ScriptableObject |
 | **Metro House** | 지하철 역 기반 아파트 실거래가 시각화 웹사이트 | Spring Boot, Kakao Map API, MySQL |
 | **Findy** | 카테고리별 뉴스 크롤링 및 Elasticsearch 기반 검색 엔진 | Spring Boot, MongoDB, Docker, Elasticsearch |
 
